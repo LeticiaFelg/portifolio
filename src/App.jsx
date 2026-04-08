@@ -214,8 +214,8 @@ function App() {
             </div>
             <div className="project-card">
               <div className="project-card-header">03</div>
-              <h3>Vini ama a lele</h3>
-              <p>Vamo assistir logo garota.</p>
+              <h3>Nenem ama muito a maezinha</h3>
+              <p>mesmo vc sendo brava, vc é nenezinha </p>
               <div className="project-tags">
                 <span className="tag">React</span>
                 <span className="tag">Node.js</span>
