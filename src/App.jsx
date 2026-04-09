@@ -70,7 +70,7 @@ function App() {
       <section id="hero">
         <div className="hero-container">
           <div className="hero-text">
-            <p className="hero-greeting">Olá, eu sou a</p>
+            <p className="hero-greeting">Olá, eu sou a lalalalalalala</p>
             <h1><span className="gradient-text">Letícia</span><br />Felgueiras</h1>
             <p className="hero-role">Engenheira de Software</p>
             <p className="hero-sub">
