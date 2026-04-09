@@ -1,6 +1,6 @@
 import { useState, useEffect, useRef } from 'react'
 import './App.css'
-import heroImg from './assets/photo.jpeg'
+import heroImg from './assets/fotoPerfil.jpeg'
 
 function useScrollReveal() {
   const ref = useRef(null)
